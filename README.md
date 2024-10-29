@@ -1,3 +1,7 @@
+
+  <p align="center">Hola , este es mi primer proyecto con NEstJs para efectos demostrativos , su objetivo es tener una plantilla lista para enfocarse en codificar reglas de negocio u historias de usuario enfocado o segmentado para CleanArquitecture</p>
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
